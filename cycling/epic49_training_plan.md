@@ -1,6 +1,6 @@
 # Cycling Training Plan: September 2026 → EPIC49 and beyond
 
-**Prepared:** 2 September 2026
+**Prepared:** 2 September 2026 (revised same day: office commute moved to Thursday; sessions mirrored on the "Training" Google Calendar through 25 Oct)
 **Target event:** EPIC49, Kettering Leisure Village, Thu 29 Oct – Sun 1 Nov 2026
 **Goals (in priority order):**
 1. General health and fitness
@@ -56,24 +56,26 @@ Rules of thumb:
 
 ## 3. Weekly template
 
-Assumes roughly 6–8 hours a week, which matches your recent volume. Days are suggestions; shuffle around work and weather, but keep at least one easy day between the two hard sessions.
+Assumes roughly 6–8 hours a week, which matches your recent volume. Built around the Thursday office commute (loaded, Z2/Z3 with short bursts), which counts as the week's moderate day. Days are suggestions; shuffle around work and weather, but keep at least one easy day between the hard sessions (Mon, Wed, Sat).
 
 | Day | Session | Duration | Effort |
 |---|---|---|---|
-| Mon | Rest or utility rides only | — | Z1 |
-| Tue | **Threshold intervals** | 60–75 min | Z4 in the work blocks |
-| Wed | Easy spin or strength | 30–45 min | Z1–Z2 |
-| Thu | **VO2max intervals** (alternate weeks) or tempo ride | 45–60 min | Z5 / Z3 |
+| Mon | **Threshold intervals** | 60–75 min | Z4 in the work blocks |
+| Tue | Easy spin or strength | 30–45 min | Z1–Z2 |
+| Wed | **VO2max intervals** (alternate weeks) or tempo ride | 45–60 min | Z5 / Z3 |
+| Thu | **Office commute** — loaded, that's the session | as it comes | Z2/Z3 with bursts |
 | Fri | Strength | 25–30 min | — |
 | Sat | **Long ride** | 60–120 km | Z2 |
 | Sun | Recovery spin, utility, or rest | 0–45 min | Z1 |
+
+Calendar times: Mon 06:00, Tue 19:00, Wed 06:00, Fri 19:00, Sat 05:30 pre-dawn start.
 
 ### Session descriptions
 
 **Long ride (Saturday)**
 60–120 km depending on the week, HR 125–150. Eat something every 45–60 minutes from the first hour (you've noted turning back hungry before). Cafe stops are fine; this is the ride that makes the Kettering trip feel normal.
 
-**Threshold intervals (Tuesday)**
+**Threshold intervals (Monday)**
 - Warm up 15 min easy.
 - Weeks 1–3: **3 × 10 min** at HR 165–175, 5 min easy between.
 - Weeks 5–6: **2 × 15 min**, 5 min easy between.
@@ -82,12 +84,15 @@ Assumes roughly 6–8 hours a week, which matches your recent volume. Days are s
 - Effort check: hard but controlled. You should be able to say a short sentence but wouldn't want to. If the last interval is slower than the first by more than ~10%, you started too hard.
 - Where: **Richmond Park** — this session needs 10–20 min of continuous road and London streets can't provide it. See "Where to do intensity in London" below.
 
-**VO2max intervals (every other Thursday)**
+**VO2max intervals (every other Wednesday)**
 - Warm up 15 min with 2–3 short 30-second surges.
 - **5 × 3 min** as hard as you can *sustain for all five*, 3 min easy spinning between.
 - Cool down 10 min.
 - Ignore HR during the work. It won't catch up in time. Go by legs and breathing.
 - On the off week, do a 45–60 min tempo ride (Z3, HR 152–165) instead, or an easy Z2 hour if tired. Tempo can be done on ordinary roads — see below.
+
+**Office commute (Thursday)**
+Loaded, Z2/Z3 with the usual short bursts for lights and junctions. It's a moderate day in its own right, so nothing gets added on top. If the commute doesn't happen in a given week, replace it with a 45 min tempo ride. If it lands the day after a Wednesday tempo, take the commute gently.
 
 **Strength (2× per week, 25–30 min)**
 The routine you were doing in March is the right one. Restart at those loads and build.
@@ -97,10 +102,10 @@ The routine you were doing in March is the right one. Restart at those loads and
 - Split squat or step-up 3 × 10 per leg (new: helps stability on a loaded bike)
 - Push-ups 3 × 10–12
 - Plank 3 × 35–45 s
-Progress by adding reps first, then weight. Skip strength in the 4 days before EPIC49.
+Progress by adding reps first, then weight. Keep the Friday session light before a 100 km+ Saturday. Skip strength in the 4 days before EPIC49.
 
 **Everything else**
-Dentist, groceries, commute legs, "to dinner" rides: keep them Z1. They matter for health and daily movement; they don't need to be training.
+Dentist, groceries, other commute legs, "to dinner" rides: keep them Z1. They matter for health and daily movement; they don't need to be training.
 
 ### Where to do intensity in London
 
@@ -120,19 +125,21 @@ London roads don't offer 10 uninterrupted minutes of tempo, let alone 20 at thre
 
 Weeks run Monday–Sunday. The last two calendar weeks are short.
 
-| Week | Dates | Focus | Long ride | Threshold | VO2 / Tempo |
+| Week | Dates | Focus | Long ride (Sat) | Threshold (Mon) | VO2 / Tempo (Wed) |
 |---|---|---|---|---|---|
-| 1 | 2–6 Sep | Introduce intensity | 60–70 km Z2 | 3 × 10 min | Tempo 45 min |
+| 1 | 2–6 Sep | Introduce intensity | 60–70 km Z2 | — (partial week) | Tempo 45 min if it fits |
 | 2 | 7–13 Sep | Build | 70–80 km Z2 | 3 × 10 min | 5 × 3 min VO2 |
 | 3 | 14–20 Sep | Build | 80 km Z2 | 3 × 10 min | Tempo 50 min |
 | 4 | 21–27 Sep | **Recovery** — cut volume ~40% | 40–50 km easy | 2 × 8 min (only hard session) | None |
 | 5 | 28 Sep – 4 Oct | Build, longer | 100 km Z2 | 2 × 15 min | 5 × 3 min VO2 |
 | 6 | 5–11 Oct | **Loaded rehearsal** | 100–110 km **with both panniers loaded** as for EPIC | 2 × 15 min | Tempo 50 min |
 | 7 | 12–18 Oct | Peak | 110–120 km Z2 (unloaded) | 2 × 20 min | 5 × 3 min VO2 |
-| 8 | 19–25 Oct | Sharpen, start taper | 80 km Z2 (Sat 24th at latest) | 2 × 20 min (Tue) | None |
+| 8 | 19–25 Oct | Sharpen, start taper | 80 km Z2 (Sat 24th at latest) | 2 × 20 min (last hard session) | None |
 | — | 26–28 Oct | Taper | Two 30–40 min easy spins with 3–4 short 1-min pickups | — | — |
 | — | **Thu 29 Oct** | **Ride to Kettering** | ~150 km loaded | | |
 | — | **Sun 1 Nov** | **Ride home — or train, by feel** | ~150–175 km loaded | | |
+
+The Thursday commute runs every week including week 4 (take it gently) and week 8.
 
 Notes on the block:
 - **The loaded rehearsal in week 6 is the most important ride in the plan.** Ride the actual kit, actual bags, actual weight. It checks packing, bike handling, saddle comfort, and pacing; and it's the last chance to fix anything before the real thing.
@@ -171,19 +178,20 @@ The week after EPIC49 is recovery: easy spins only, strength from midweek, no in
 Then, from ~9 Nov:
 
 1. **Test FTP.** 20-min all-out effort on a trainer or a flat, uninterrupted loop, after a good warm-up. FTP ≈ 95% of the 20-min average power (if you have any power source) or the 20-min average HR, which becomes your threshold anchor. This tells you whether 205 W is real and gives you a target to beat in February.
-2. **Indoor trainer strongly recommended.** Dark evenings kill the Tuesday/Thursday sessions on the road. A smart trainer (or a basic one plus a speed sensor and an app) makes 60-minute interval sessions repeatable and safe, and gives you real power data for the first time.
-3. **Winter template:** keep the same structure. Two interval sessions midweek (indoors), one long outdoor Z2 ride at the weekend when weather allows (60–90 km), strength twice a week. Volume can drop to 5–6 h; the intensity is what carries fitness through winter.
+2. **Indoor trainer strongly recommended.** Dark mornings and evenings kill the Monday/Wednesday sessions on the road. A smart trainer (or a basic one plus a speed sensor and an app) makes 60-minute interval sessions repeatable and safe, and gives you real power data for the first time.
+3. **Winter template:** keep the same structure. Two interval sessions midweek (indoors), the Thursday commute, one long outdoor Z2 ride at the weekend when weather allows (60–90 km), strength twice a week. Volume can drop to 5–6 h; the intensity is what carries fitness through winter.
 4. **Retest** in early February and adjust zones. If EPIC47's successor (the February Kettering event) is on the cards, repeat the 8-week block from section 4 starting mid-December.
 
 ---
 
 ## 7. Quick reference card
 
-- **Long ride:** Saturday, Z2 (HR 125–150), 60–120 km, eat every 45 min.
-- **Threshold:** Tuesday, HR 165–175, 3×10 → 2×15 → 2×20 min. Richmond Park, not city streets.
+- **Long ride:** Saturday, pre-dawn start, Z2 (HR 125–150), 60–120 km, eat every 45 min.
+- **Threshold:** Monday, HR 165–175, 3×10 → 2×15 → 2×20 min. Richmond Park, not city streets.
 - **Tempo:** total minutes in Z3 across whatever stretches the roads allow; lights are the interval structure.
-- **VO2:** every other Thursday, 5×3 min all-out-sustainable, by feel.
-- **Strength:** 2× week, 25–30 min, the March routine plus split squats.
+- **VO2:** every other Wednesday, 5×3 min all-out-sustainable, by feel.
+- **Commute:** Thursday, loaded, Z2/Z3 — it's the moderate day, nothing on top.
+- **Strength:** Tue and Fri, 25–30 min, the March routine plus split squats.
 - **Utility rides:** easy, always.
 - **Recovery week:** week 4 (21–27 Sep). Take it.
 - **Loaded rehearsal:** week 6 (5–11 Oct), 100+ km, full kit.
