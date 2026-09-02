@@ -80,14 +80,14 @@ Assumes roughly 6–8 hours a week, which matches your recent volume. Days are s
 - Weeks 7–8: **2 × 20 min**, 5 min easy between.
 - Cool down 10 min.
 - Effort check: hard but controlled. You should be able to say a short sentence but wouldn't want to. If the last interval is slower than the first by more than ~10%, you started too hard.
-- Where: you need uninterrupted road. Richmond Park (one lap ≈ 11 km, ~20 min at your pace) or Regent's Park outer circle (≈ 4.5 km laps) both work. Early morning avoids traffic.
+- Where: **Richmond Park** — this session needs 10–20 min of continuous road and London streets can't provide it. See "Where to do intensity in London" below.
 
 **VO2max intervals (every other Thursday)**
 - Warm up 15 min with 2–3 short 30-second surges.
 - **5 × 3 min** as hard as you can *sustain for all five*, 3 min easy spinning between.
 - Cool down 10 min.
 - Ignore HR during the work. It won't catch up in time. Go by legs and breathing.
-- On the off week, do a 45–60 min tempo ride (Z3, HR 152–165) instead, or an easy Z2 hour if tired.
+- On the off week, do a 45–60 min tempo ride (Z3, HR 152–165) instead, or an easy Z2 hour if tired. Tempo can be done on ordinary roads — see below.
 
 **Strength (2× per week, 25–30 min)**
 The routine you were doing in March is the right one. Restart at those loads and build.
@@ -101,6 +101,18 @@ Progress by adding reps first, then weight. Skip strength in the 4 days before E
 
 **Everything else**
 Dentist, groceries, commute legs, "to dinner" rides: keep them Z1. They matter for health and daily movement; they don't need to be training.
+
+### Where to do intensity in London
+
+London roads don't offer 10 uninterrupted minutes of tempo, let alone 20 at threshold. The two session types cope with this differently.
+
+**Tempo: fine on ordinary roads.** Tempo works by accumulating minutes in Z3; it doesn't much care whether they arrive in 10-minute chunks or 4-minute ones.
+- Aim for a **total time in Z3** (e.g. 30 min) rather than a set number of blocks. Take it in whatever pieces the road gives: 4 min here, 6 there. Stop counting when you hit the target.
+- Use traffic lights as the interval structure: ride the stretch between two sets at tempo, spin easy through the junction, go again.
+- Skip any stretch under ~3 min; too short to settle into the effort.
+- With blocks this short, HR won't catch up. Go by feel: legs working, breathing deeper than conversational, but you could hold it for 20 min if you had to. Don't chase 152–165 on the screen or you'll overshoot into threshold.
+
+**Threshold: Richmond Park (or a trainer).** Threshold intervals need 10–20 min of continuous, controlled effort; chopping them up changes what they train. Richmond Park (one lap ≈ 11 km, ~20 min at your pace, no lights) is worth the ride out. Regent's Park outer circle (≈ 4.5 km laps) is a weaker alternative. Over winter, an indoor trainer replaces both.
 
 ---
 
@@ -168,7 +180,8 @@ Then, from ~9 Nov:
 ## 7. Quick reference card
 
 - **Long ride:** Saturday, Z2 (HR 125–150), 60–120 km, eat every 45 min.
-- **Threshold:** Tuesday, HR 165–175, 3×10 → 2×15 → 2×20 min.
+- **Threshold:** Tuesday, HR 165–175, 3×10 → 2×15 → 2×20 min. Richmond Park, not city streets.
+- **Tempo:** total minutes in Z3 across whatever stretches the roads allow; lights are the interval structure.
 - **VO2:** every other Thursday, 5×3 min all-out-sustainable, by feel.
 - **Strength:** 2× week, 25–30 min, the March routine plus split squats.
 - **Utility rides:** easy, always.
