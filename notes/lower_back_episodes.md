@@ -1,6 +1,6 @@
 # Lower back episodes — log
 
-**Prepared:** 3 September 2026
+**Prepared:** 3 September 2026 (updated 4 September 2026)
 
 Recurring acute lower back pain on the bike, roughly once or twice a month, usually triggered by a sudden out-of-the-saddle effort. Typically resolves within 1–2 days. This file is the running record; add an entry for each episode so there's something concrete to show a physio or GP.
 
@@ -22,12 +22,14 @@ Recurring acute lower back pain on the bike, roughly once or twice a month, usua
 
 ### 2026-09-03 (Thu)
 
-- **Ride:** Strava "Morning Ride", 64 km, ~2h50 moving, started 05:29. Episode near the end of the ride.
+- **Ride:** Strava "Morning Ride", 67 km, ~3h22 moving, started 05:29, relative effort 118. Episode near the end of the ride.
 - **Trigger:** Stood up to push away from a red light; sharp pain on the first stroke.
 - **Course:** Sharp pain ~1 s, sat down; dull persistent ache for 5–10 min while riding, had to sit upright. Still mild ~5 min after getting home; easing.
 - **Relieving position:** Sitting very upright, slight lean to the left.
 - **Red flags:** None reported.
 - **Notes:** Long ride + fatigued trunk muscles + sudden asymmetric out-of-saddle load. Same pattern as previous episodes.
+- **Day after (Fri 4 Sep):** Two short utility rides (dentist, ~4 km each, easy) without issue. Friday strength session skipped as a precaution. Pain gone by end of day. Consistent with the usual 1–2 day course.
+- **Plan for Sat 5 Sep:** Long ride goes ahead if the back is fine on waking (no stiffness bending to put shoes on). Shortened to ~50–60 km, strict Z2, seated at every push-off, gentle first 15 min, turn home at the first twinge. If stiff or sore on waking: 30–40 min easy spin instead.
 
 ### Earlier episodes (from memory)
 
