@@ -1,6 +1,6 @@
 # Route: Ripley Lanes Loop (SW London → Surrey → Thames)
 
-**Prepared:** 2 September 2026
+**Prepared:** 2 September 2026 (corrected 4 September 2026: Cobham turns)
 **Purpose:** Back-pocket Z2 long ride for the 60–70 km weeks of the EPIC49 plan (weeks 1–3) and for winter weekends. Not tied to a date.
 **Start/finish:** Raynes Park
 **Distance:** ~68 km with the Richmond Park lap; ~56 km without
@@ -20,7 +20,8 @@ Distances are estimates from the map; plot it in komoot/RideWithGPS before the f
 | 4.5 | Kingston | Pick up the A307 Portsmouth Road heading south along the river. |
 | 8 | Thames Ditton / Long Ditton | Stay on Portsmouth Road. |
 | 11.5 | Esher | Continue on the A307 through Esher and across Esher Common. **Busiest section of the ride** (Esher → Cobham): fast traffic, but a wide road and a standard club-run road. Earlier start = quieter. |
-| 17.5 | Cobham (Fairmile → High Street) | Turn left onto **Downside Bridge Road**. Traffic drops away here. |
+| 17 | Cobham, north-west edge | The A307 (Fairmile / Portsmouth Road) ends at its junction with the A245. **Turn left onto Between Streets**, heading south-east into town. Between Streets becomes the High Street. |
+| 18 | Cobham, east end of High Street | **Turn right into Church Street** (the short street to St Andrew's church), which runs straight into **Downside Bridge Road** heading south over Downside Bridge. Traffic drops away here. |
 | 19.5 | Downside | Cross Downside Common, continue on **Plough Lane → Ockham Lane**, under the M25. Narrow lanes, occasional gravel, watch for horses. |
 | 23.5 | Ockham (Black Swan) | Turn right onto **Ockham Road North (B2039)** into Ripley. |
 | 27 | **Ripley** | Cafe stop: Pinnocks (High Street). If you're not stopping, at least eat here. |
