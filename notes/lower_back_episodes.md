@@ -1,6 +1,6 @@
 # Lower back episodes — log
 
-**Prepared:** 3 September 2026 (updated 4 September 2026)
+**Prepared:** 3 September 2026 (updated 5 September 2026)
 
 Recurring acute lower back pain on the bike, roughly once or twice a month, usually triggered by a sudden out-of-the-saddle effort. Typically resolves within 1–2 days. This file is the running record; add an entry for each episode so there's something concrete to show a physio or GP.
 
@@ -29,7 +29,7 @@ Recurring acute lower back pain on the bike, roughly once or twice a month, usua
 - **Red flags:** None reported.
 - **Notes:** Long ride + fatigued trunk muscles + sudden asymmetric out-of-saddle load. Same pattern as previous episodes.
 - **Day after (Fri 4 Sep):** Two short utility rides (dentist, ~4 km each, easy) without issue. Friday strength session skipped as a precaution. Pain gone by end of day. Consistent with the usual 1–2 day course.
-- **Plan for Sat 5 Sep:** Long ride goes ahead if the back is fine on waking (no stiffness bending to put shoes on). Shortened to ~50–60 km, strict Z2, seated at every push-off, gentle first 15 min, turn home at the first twinge. If stiff or sore on waking: 30–40 min easy spin instead.
+- **Day 2 (Sat 5 Sep):** A little stiff on getting out of bed; cleared after moving about and breakfast. Rode the Ripley Lanes Loop, 64 km strict Z2 (avg HR 139), seated at every push-off. No pain or stiffness during or after. Episode closed; back to normal training, with the seated-push-off rule staying in place until the physio assessment.
 
 ### Earlier episodes (from memory)
 
