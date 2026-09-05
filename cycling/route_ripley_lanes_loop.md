@@ -7,7 +7,7 @@
 **Distance:** 60.7 km without the Richmond Park lap (64 km ridden, with the Ripley cafe detour); ~72 km with it
 **Climbing:** ~270 m short variant (from the GPX, smoothed; highest point 58 m); add ~150 m for the park lap. Flat, gently rolling at worst.
 **Time at Z2:** 2 h 39 moving / 2 h 54 elapsed at 24 km/h on the first ride, which was strict Z2 (avg HR 139). Add ~30 min for the park lap.
-**Direction:** Clockwise as written. Reverse works but puts the busy Portsmouth Road section at the end when you're tired.
+**Direction:** Clockwise as written. Reverse works but puts the busy Portsmouth Road section at the end when you're tired. With the prevailing south-westerly, clockwise means headwind out, tailwind home.
 
 ---
 
@@ -31,7 +31,7 @@
 | 35.5 | Byfleet | **Brooklands Road (B374)** over the M25 towards Weybridge. |
 | 40.4 | Weybridge | Through the town, then towards Walton. |
 | 43.5 | Walton-on-Thames | **A3050 Walton Road → Hurst Road** past the reservoirs. |
-| 49.9 | Hampton Court Bridge | Turn left over the bridge to the north bank, then **A308 Hampton Court Road** along the south edge of Bushy Park to Hampton Wick. Flat, fast; good stretch for holding a steady 25 km/h — but watch HR here, it drifts to the top of Z2 (150) without you noticing. |
+| 49.9 | Hampton Court Bridge | Turn left over the bridge to the north bank, then **A308 Hampton Court Road** along the south edge of Bushy Park to Hampton Wick. Flat, fast, usually a tailwind; 25–30 km/h at Z2 effort is normal here. HR will read 5–10 bpm higher than the same effort did early on (cardiac drift), so go by feel rather than chasing the number down. |
 | 52.7 | Kingston Bridge | Cross back into Kingston. |
 | 55 | Kingston Hill / Coombe | Short variant: up Kingston Hill, then back streets south of Coombe Lane to Raynes Park and home. 60.7 km total. |
 | 53.5 | Richmond Park, Kingston Gate | Full variant: one clockwise lap (~10.7 km, no lights). Sawyer's Hill and Broomfield Hill will push HR up; that's fine, just don't race them. |
@@ -52,9 +52,9 @@ Esher, Cobham & Stoke d'Abernon, West Byfleet, Byfleet & New Haw, Weybridge, Wal
 
 ## Pacing and fuelling (from the plan)
 
-- Z2 means HR 125–150. Warm-up through Kingston at Z1. If HR drifts over 150 on the flat, ease off.
+- Z2 means HR 125–150. Warm-up through Kingston at Z1. Late in the ride expect 5–10 bpm of cardiac drift at the same effort; hold Z2 by feel (conversational) rather than backing off just to keep the number down. If it's a hot day, drink more in the second half — drift is worse when dehydrated.
 - Eat something at ~45 min (around Esher), at Ripley, and at Hampton Court. Two bottles.
-- Use the Hampton Court → Kingston stretch to practise a steady 24–25 km/h without HR creeping into Z3.
+- Use the Hampton Court → Kingston stretch to practise a steady 25 km/h at an even effort.
 - Lower back: drop a gear before every light on Portsmouth Road and pull away seated; stand up straight for a few minutes at the Ripley stop.
 
 ## Other riders
@@ -65,4 +65,4 @@ Ridden clockwise from 05:41 on a Saturday: almost nobody going the same way (thr
 
 | Date | Distance | Moving time | Avg HR | Notes |
 |---|---|---|---|---|
-| 2026-09-05 (Sat) | 64.0 km | 2:39 (2:54 elapsed) | 139 (max 158) | First ride of the route, two days after a back episode. Strict Z2; no pain or stiffness before, during or after. Fastest 50 km ever (2:12:41) despite the zone cap. Cafe stop at Pinnocks. Return leg segments (Walton → Kingston) sat at HR 145–150, the top of Z2. [Strava](https://www.strava.com/activities/20042246967) |
+| 2026-09-05 (Sat) | 64.0 km | 2:39 (2:54 elapsed) | 139 (max 158) | First ride of the route, two days after a back episode. Even perceived effort throughout, strict Z2; no pain or stiffness before, during or after. Fastest 50 km ever (2:12:41). Cafe stop at Pinnocks. Return leg (Walton → Kingston) at 30 km/h with HR 145–150 — tailwind plus normal cardiac drift (~3–5% vs comparable early sections), not an effort creep. [Strava](https://www.strava.com/activities/20042246967) |
