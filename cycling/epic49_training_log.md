@@ -1,6 +1,6 @@
 # EPIC49 Block — Training Log
 
-**Prepared:** 7 September 2026
+**Prepared:** 7 September 2026 (updated 9 September 2026)
 **Plan:** [epic49_training_plan.md](epic49_training_plan.md)
 
 Session-by-session notes for the 8-week block (7 Sep – 25 Oct 2026). One entry per key session; easy/utility rides aren't logged unless something notable happens.
@@ -41,3 +41,20 @@ Strava activity 20069802363. 32.8 km, 1 h 23 moving, 223 m gain, relative effort
 - Warm-up: easy ride out, then 5 min building to ~150 in the park, two 30 s openers, start block 1.
 
 **Next Monday (14 Sep):** same 3 × 10 min, same effort, don't chase HR. Watch whether HR sits higher at the same leg feel.
+
+### Wed 9 Sep — VO2max 5 × 3 min, Richmond Park
+
+Strava activity 20098366819. 27.1 km, 1 h 13 moving, 134 m gain, relative effort 40. Avg HR 138, **max HR 172** (highest recorded so far in this block). No lap splits recorded, so per-block data is from segment efforts and athlete report. Segment efforts on the short climbs averaged 168–171 bpm.
+
+**Athlete notes**
+- Could not push to ragged breathing and still sustain all five blocks. Effort was capped by legs.
+- Block 2 was softer: stuck in traffic behind other cyclists.
+- Block 5 rated 9/10 overall — 9.5/10 legs, 8/10 breathing and everything else.
+
+**Assessment**
+- Same leg-limited pattern as Monday, at higher intensity. Cardio had headroom the legs couldn't use.
+- Pacing was appropriate for a first VO2 session: all five completed, last one near but not at the limit. Next VO2 session (week 5, 30 Sep): start blocks 1–3 slightly harder, aim for block 5 at 9.5/10.
+- Two levers to shift the limiter from legs to lungs: **cadence** (try 95–105 rpm in the work blocks) and **strength training** (Tue/Fri sessions are the direct fix — higher priority for this rider than the plan implies).
+- Zone note: 172 max at VO2 effort suggests the plan's Z5 (180+) is out of reach and Z4 (166–179) is too high. Revise the zone table after 14 Sep.
+- Traffic in the park at 06:00 is a fact of life; accept an occasional soft block.
+- **Next time: use the lap button at the start and end of each block.**
