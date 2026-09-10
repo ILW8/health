@@ -55,6 +55,6 @@ On the back, knees bent, feet flat hip-width, close enough that fingertips brush
 
 | Date | Goblet squat | RDL (per hand) | Row | Split squat | Push-ups | Plank | Notes |
 |---|---|---|---|---|---|---|---|
-| 2026-09-10 (Thu) | 10 kg, 3 × 12 | 8 kg, 3 × 12 | 10 kg, 3 × 12/side | BW, 3 × 10/leg | 10 / 10 / 10 (last 3–4 of set 3 not clean) | 35 / 35 / 35 s (set 3 drifted into back) | Restart session, done as straight sets. Squat/RDL/row all easy with reps in reserve. Right leg shaking uncontrollably by the last push-up set and last plank — stabiliser fatigue after split squats. Right-side weakness worth mentioning to physio (back relief position leans left). Loads as prescribed; correct if different. |
+| 2026-09-10 (Thu) | 10.25 kg, 3 × 12 | 9 kg, 3 × 12 | 10.25 kg, 3 × 12/side | BW, 3 × 10/leg | 10 / 10 / 10 (last 3–4 of set 3 not clean) | 35 / 35 / 35 s (set 3 drifted into back) | Restart session, done as straight sets. Squat/RDL/row all easy with reps in reserve. Right leg shaking uncontrollably by the last push-up set and last plank — stabiliser fatigue after split squats. Right-side weakness worth mentioning to physio (back relief position leans left). |
 
-**Next session (Tue 15 Sep):** goblet 12 kg, RDL 9 kg/hand, row 11 kg, split squat bodyweight, push-ups 10/10/8 stopping when form goes, plank 3 × 30 s clean.
+**Next session (Tue 15 Sep):** goblet 12 kg, RDL 10 kg/hand, row 11.25 kg, split squat bodyweight, push-ups 10/10/8 stopping when form goes, plank 3 × 30 s clean.
