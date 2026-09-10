@@ -1,13 +1,13 @@
 # Strength routine — exercise guide
 
-**Prepared:** 8 September 2026
+**Prepared:** 8 September 2026 (updated 11 September 2026)
 **Plan reference:** [cycling/epic49_training_plan.md](../cycling/epic49_training_plan.md), "Strength (2× per week, 25–30 min)"
 
-Beginner-level technique notes for the six exercises in the routine. Tue and Fri, 25–30 min. Restarted 8 Sep 2026 after a break since mid-June; see [notes/lower_back_episodes.md](../notes/lower_back_episodes.md) for the back history that shapes the RDL and plank cues.
+Beginner-level technique notes for the six exercises in the routine. Tue and Fri, 25–30 min. Restarted 10 Sep 2026 after a break since mid-June; see [notes/lower_back_episodes.md](../notes/lower_back_episodes.md) for the back history that shapes the RDL and plank cues.
 
 ## Structure
 
-Three pairs, done as alternating sets: A then B, rest 60 s, repeat until three rounds of each, then move to the next pair.
+Six exercises, three sets each. Either straight sets (all three sets of one exercise, then the next) or alternating pairs as below — the pairing only saves time, it makes no difference to the training effect. Rest ~60 s between sets.
 
 | Pair | A | B |
 |---|---|---|
@@ -17,7 +17,9 @@ Three pairs, done as alternating sets: A then B, rest 60 s, repeat until three r
 
 Warm-up first (5 min): easy movement, cat-cow × 8, bodyweight squat × 10, glute bridge × 10.
 
-Progress by adding reps first, then weight. Keep 1–2 reps in reserve on every set. Friday sessions before a 100 km+ Saturday stay light. No strength in the 4 days before EPIC49.
+Progress by adding reps first, then weight. Keep 1–2 reps in reserve on every set. With adjustable dumbbells: if all three sets of an exercise finish with two reps in reserve, add ~1 kg per dumbbell next session. On the RDL, progress on how the back feels, not on whether the hamstrings could do more. Friday sessions before a 100 km+ Saturday stay light. No strength in the 4 days before EPIC49.
+
+Log as "Traditional strength training" in Strava / Apple Fitness.
 
 ## Exercises
 
@@ -36,13 +38,23 @@ Long stride stance: one foot forward, the other back on the ball of the foot. Lo
 Step-up alternative: step onto a knee-height box with one foot, drive up to standing tall, step down slowly.
 
 ### Push-ups
-Hands slightly wider than shoulders, body in one straight line from head to heels, glutes and abs braced. Lower until the chest is a fist's width from the floor, elbows going back at ~45° rather than flaring sideways. Press back up. If 10 clean reps aren't there, put the hands on a bench or step.
+Hands slightly wider than shoulders, body in one straight line from head to heels, glutes and abs braced. Lower until the chest is a fist's width from the floor, elbows going back at ~45° rather than flaring sideways. Press back up. If 10 clean reps aren't there, put the hands on a bench or step. Stop the set when form goes rather than grinding out sloppy reps.
 
 ### Plank
 Forearms on the floor, elbows under shoulders, toes tucked. Straight line head to heels: squeeze glutes, tuck the ribs down slightly so the lower back doesn't sag. Breathe normally. When the hips drop or the lower back starts to feel it, stop — that's the set. Side planks or dead bugs are the substitute if the back is at all unsettled.
 
+## Warm-up moves
+
+### Cat-cow
+Hands and knees, wrists under shoulders, knees under hips. **Cow:** breathe in, let the belly sink, lower back arches gently, tailbone tips up, gaze forward (don't crank the neck). **Cat:** breathe out, press the floor away, round the whole back up, tuck the tailbone, head hangs. Flow with the breath, ~4–5 s each way, 8 cycles. Gentle wave through the spine, not a stretch to push into; shrink the range if either end catches the lower back.
+
+### Glute bridge
+On the back, knees bent, feet flat hip-width, close enough that fingertips brush the heels. Gently flatten the lower back into the floor first (slight posterior tilt) so the back doesn't do the lifting. Breathe out, push through the heels to lift the hips to a straight line shoulders–knees. Squeeze glutes for a second; don't over-arch beyond that. Lower slowly. 10 reps. Feel it in glutes, a little hamstring; if it's the lower back, the arch is too big; if it's all hamstring, move the feet closer.
+
 ## Load log
 
-| Date | Goblet squat | RDL | Row | Split squat | Push-ups | Plank | Notes |
+| Date | Goblet squat | RDL (per hand) | Row | Split squat | Push-ups | Plank | Notes |
 |---|---|---|---|---|---|---|---|
-| 2026-09-08 | | | | | | | Restart session |
+| 2026-09-10 (Thu) | 10 kg, 3 × 12 | 8 kg, 3 × 12 | 10 kg, 3 × 12/side | BW, 3 × 10/leg | 10 / 10 / 10 (last 3–4 of set 3 not clean) | 35 / 35 / 35 s (set 3 drifted into back) | Restart session, done as straight sets. Squat/RDL/row all easy with reps in reserve. Right leg shaking uncontrollably by the last push-up set and last plank — stabiliser fatigue after split squats. Right-side weakness worth mentioning to physio (back relief position leans left). Loads as prescribed; correct if different. |
+
+**Next session (Tue 15 Sep):** goblet 12 kg, RDL 9 kg/hand, row 11 kg, split squat bodyweight, push-ups 10/10/8 stopping when form goes, plank 3 × 30 s clean.
