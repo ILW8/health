@@ -1,10 +1,11 @@
 # Route: Ripley Lanes Loop (SW London → Surrey → Thames)
 
-**Prepared:** 2 September 2026 (revised 4 September 2026: Cobham turns corrected twice — see below; distances taken from the plotted GPX. First ridden 5 September 2026.)
-**Purpose:** Back-pocket Z2 long ride for the 60–70 km weeks of the EPIC49 plan (weeks 1–3) and for winter weekends. Not tied to a date.
+**Prepared:** 2 September 2026 (revised 4 September 2026: Cobham turns corrected twice — see below; distances taken from the plotted GPX. First ridden 5 September 2026. Revised 11 September 2026: 80 km variant plotted on Strava, variant distances corrected.)
+**Purpose:** Back-pocket Z2 long ride for the 60–70 km weeks of the EPIC49 plan (weeks 1–3) and for winter weekends. Not tied to a date. The 80 km variant covers the 75–80 km weeks.
 **Start/finish:** Home (just south of Raynes Park station)
 **Route files (short variant, no park lap):** [komoot](https://www.komoot.com/tour/3257386316) · [Strava route](https://www.strava.com/routes/3531024217747101930) (GPX exported from Strava, 4 Sep 2026)
-**Distance:** 60.7 km without the Richmond Park lap (64 km ridden, with the Ripley cafe detour); ~72 km with it
+**Route file (80 km variant):** [Strava route](https://www.strava.com/routes/3533525702653208666) (plotted 11 Sep 2026)
+**Distance:** 60.7 km without the Richmond Park lap (64 km ridden, with the Ripley cafe detour); ~72 km with it; 80.1 km with the Chertsey extension and the park lap
 **Climbing:** ~270 m short variant (from the GPX, smoothed; highest point 58 m); add ~150 m for the park lap. Flat, gently rolling at worst.
 **Time at Z2:** 2 h 39 moving / 2 h 54 elapsed at 24 km/h on the first ride, which was strict Z2 (avg HR 139). Add ~30 min for the park lap.
 **Direction:** Clockwise as written. Reverse works but puts the busy Portsmouth Road section at the end when you're tired. With the prevailing south-westerly, clockwise means headwind out, tailwind home.
@@ -29,7 +30,7 @@
 | 31.1 | Pyrford Lock | The Anchor pub is on the lock (alternative stop). Continue on Pyrford Road. |
 | 33.9 | West Byfleet | Through the village. |
 | 35.5 | Byfleet | **Brooklands Road (B374)** over the M25 towards Weybridge. |
-| 40.4 | Weybridge | Through the town, then towards Walton. |
+| 40.4 | Weybridge | Through the town, then towards Walton. *(80 km variant diverges here — see below.)* |
 | 43.5 | Walton-on-Thames | **A3050 Walton Road → Hurst Road** past the reservoirs. |
 | 49.9 | Hampton Court Bridge | Turn left over the bridge to the north bank, then **A308 Hampton Court Road** along the south edge of Bushy Park to Hampton Wick. Flat, fast, usually a tailwind; 25–30 km/h at Z2 effort is normal here. HR will read 5–10 bpm higher than the same effort did early on (cardiac drift), so go by feel rather than chasing the number down. |
 | 52.7 | Kingston Bridge | Cross back into Kingston. |
@@ -39,16 +40,37 @@
 
 ---
 
+## 80 km variant: Chertsey extension + Richmond Park lap
+
+Plotted on Strava 11 Sep 2026 for the week 2 long ride (plan calls for 70–80 km). **80.1 km, 430 m, est. 3 h 36 moving.** Same route as above to Weybridge, then:
+
+| km | Waypoint | Notes |
+|---|---|---|
+| 40.4 | Weybridge | Instead of turning for Walton, head north-west out of town towards Addlestone (the A318 direction). |
+| ~44 | **Chertsey Bridge** | Over the Thames to the north bank. |
+| ~47 | Shepperton | East along the river road (B375) through Shepperton village. |
+| ~50 | Walton Bridge | Back over to the south bank into Walton, then rejoin **Walton Road → Hurst Road** as in the main route. Only ~6.5 km longer than the direct Weybridge → Walton road — the old "~82 km" estimate for this variant was wrong; on its own the Chertsey extension gives **67.6 km**. |
+| ~60.5 | Kingston Bridge → **Kingston Gate** | Straight through Kingston and up to the park. |
+| ~65 | Richmond Gate | Up the west side (Queen's Road / past Pembroke Lodge). |
+| ~67.5 | Roehampton Gate | Along the north edge (Sawyer's Hill). The Strava waypoint sits a few metres outside the gate — nav may show a tiny out-and-back at the gate; ignore it. |
+| ~70 | Robin Hood Gate | Down the east side. Broomfield Hill descent: 20 mph limit, deer. |
+| ~72 | Kingston Gate | Along the south edge back to where you came in, then exit. |
+| 80.1 | Home | Kingston Hill → Coombe → Raynes Park as usual. |
+
+Fuelling for the 80: eat at Esher (~45 min), Ripley, Walton Bridge (~km 50) and again at Kingston Gate before the lap. The lap comes at km 60–72 with the two proper climbs of the day, so don't arrive at it empty. Bail-out: Kingston station is right there if the legs say no before the park.
+
 ## Variants
 
 - **Short (60.7 km):** skip the Richmond Park lap; Kingston Bridge → Kingston Hill → home. This is the komoot / Strava route linked above.
-- **Long (~82 km):** at Weybridge continue west to Chertsey, then Shepperton → Walton and rejoin the route. Flat, adds ~10 km of riverside road.
-- **Long, hillier (~83 km):** two Richmond Park laps instead of one.
+- **Medium (~72 km):** short route plus one clockwise park lap from Kingston Gate.
+- **Chertsey only (67.6 km):** at Weybridge continue to Chertsey Bridge, then Shepperton → Walton and rejoin. Flat riverside road. (Not ~82 km as earlier versions of this file claimed.)
+- **Long (80.1 km):** Chertsey extension plus one park lap. [Strava route](https://www.strava.com/routes/3533525702653208666). Plan weeks 2–3 (70–80 km).
+- **Long, hillier (~83 km):** two Richmond Park laps instead of one, no Chertsey extension.
 - **Wet/dark:** the Downside–Ockham lanes are the bit to drop. Go Cobham → A245 Byfleet Road → Byfleet instead (busier but lit and surfaced).
 
 ## Bail-out points (SWR to Waterloo via Wimbledon/Raynes Park)
 
-Esher, Cobham & Stoke d'Abernon, West Byfleet, Byfleet & New Haw, Weybridge, Walton-on-Thames, Hampton Court. You are never more than ~15 min from a station.
+Esher, Cobham & Stoke d'Abernon, West Byfleet, Byfleet & New Haw, Weybridge, Chertsey, Shepperton, Walton-on-Thames, Hampton Court, Kingston. You are never more than ~15 min from a station.
 
 ## Pacing and fuelling (from the plan)
 
