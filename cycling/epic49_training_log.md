@@ -1,6 +1,6 @@
 # EPIC49 Block — Training Log
 
-**Prepared:** 7 September 2026 (updated 9 September 2026)
+**Prepared:** 7 September 2026 (updated 12 September 2026)
 **Plan:** [epic49_training_plan.md](epic49_training_plan.md)
 
 Session-by-session notes for the 8-week block (7 Sep – 25 Oct 2026). One entry per key session; easy/utility rides aren't logged unless something notable happens.
@@ -58,3 +58,25 @@ Strava activity 20098366819. 27.1 km, 1 h 13 moving, 134 m gain, relative effort
 - Zone note: 172 max at VO2 effort suggests the plan's Z5 (180+) is out of reach and Z4 (166–179) is too high. Revise the zone table after 14 Sep.
 - Traffic in the park at 06:00 is a fact of life; accept an occasional soft block.
 - **Next time: use the lap button at the start and end of each block.**
+
+### Thu 10 Sep — Strength
+
+49 min, 23:46 start (recorded as a workout, RE 8). Late finish — flagged as a reason to keep Saturday's ride at the low end if legs were heavy. No Thursday commute on Strava this week (access card not yet renewed).
+
+### Sat 12 Sep — Long ride, Ripley Lanes Loop + Chertsey extension
+
+Strava activity 20139358805. **69.8 km, 2 h 50 moving (3 h 19 elapsed), 317 m gain, relative effort 91. Avg HR 141, max 160. Longest ride to date.** Started 05:39. Route: [Chertsey-only variant](route_ripley_lanes_loop.md) (67.6 km plotted; extra ~2 km from the Ripley cafe detour and stops).
+
+Plan changes on the day: a ~30 km afternoon trip (picking up a friend, London roads) was added, so the Richmond Park lap was dropped from the morning to keep the day's total near 100 km and the morning flat.
+
+**Athlete notes**
+- Had to go into Z3 occasionally to stay safe in traffic.
+- **Hit an unseen pothole. Rear wheel has a large dent and is wobbly.** (From the Strava description.)
+
+**Assessment**
+- Effort was where it should have been: avg 141 is squarely low-Z2 as agreed the night before, and the Z3 moments were short (max 160). Outbound Portsmouth Road segments averaged 139–149; return leg (Walton → Kingston) 145–150 with the usual tailwind and drift. Same pattern as last week, nothing to change.
+- Speed was down on last week (24.6 vs 24 km/h moving, but 29 min stopped vs 15) — more lights, the cafe stop, and presumably the pothole check. Fine for a Z2 day.
+- Week 2 long-ride target (70–80 km) met at the bottom of the range, by design, with the afternoon ride making up volume.
+- New territory: this is the longest ride on record. Note how the legs feel Sunday and going into Monday's threshold session.
+
+**Rear wheel** — needs inspecting before it's ridden again (see the message log for the 12 Sep afternoon). Log the outcome here: dent location (brake track / bead hook vs rim wall), whether the tyre still seats and holds pressure, and whether it was trued, repaired or replaced.
