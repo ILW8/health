@@ -71,7 +71,7 @@ Plan changes on the day: a ~30 km afternoon trip (picking up a friend, London ro
 
 **Athlete notes**
 - Had to go into Z3 occasionally to stay safe in traffic.
-- **Hit an unseen pothole. Rear wheel has a large dent and is wobbly.** (From the Strava description.)
+- Hit an unseen pothole. Rear rim dented (see below).
 
 **Assessment**
 - Effort was where it should have been: avg 141 is squarely low-Z2 as agreed the night before, and the Z3 moments were short (max 160). Outbound Portsmouth Road segments averaged 139–149; return leg (Walton → Kingston) 145–150 with the usual tailwind and drift. Same pattern as last week, nothing to change.
@@ -79,4 +79,9 @@ Plan changes on the day: a ~30 km afternoon trip (picking up a friend, London ro
 - Week 2 long-ride target (70–80 km) met at the bottom of the range, by design, with the afternoon ride making up volume.
 - New territory: this is the longest ride on record. Note how the legs feel Sunday and going into Monday's threshold session.
 
-**Rear wheel** — needs inspecting before it's ridden again (see the message log for the 12 Sep afternoon). Log the outcome here: dent location (brake track / bead hook vs rim wall), whether the tyre still seats and holds pressure, and whether it was trued, repaired or replaced.
+**Rear wheel — pothole damage, assessed same day**
+- Dent is in the rim wall; surface smooth, no step or flare at the bead hook.
+- Tyre seats normally and holds pressure (both tyres +0.5 psi over the day, i.e. temperature only, no loss).
+- No lateral wobble. Slight radial hop, only perceptible on smooth tarmac; took 15–20 min of riding to notice.
+- ~30 km ridden on it after the impact without issue.
+- **Verdict: rideable.** The hop is the dent itself and won't true out with spoke tension; rim replacement only if it becomes annoying. Re-check the dent for hairline cracks after the next few rides. No change to the plan.
