@@ -15,7 +15,7 @@ Stock spec (from Trek / 99 Spokes listing; unchanged across the Gen 4 AL 4 run):
 | **Rims** | **Bontrager Paradigm SL, alloy, tubeless ready, 24-hole, 21 mm internal** |
 | Spokes | 14g stainless, black |
 | Hubs | Formula RX-512 front (100×12), Formula RX-142 rear (142×12), Shimano 11-speed freehub (10-speed cassette runs on a 1.85 mm spacer) |
-| Tyres | Bontrager R1 Hard-Case Lite, wire bead, 60 tpi, 62a compound, 428 g, **50 psi max**, 700×32 (stock) |
+| Tyres | Bontrager R1 Hard-Case Lite, wire bead, 60 tpi, 62a compound, 428 g, 70 psi max (per sidewall; retailer listings say 50 psi — sidewall wins), 700×32 (stock) |
 
 ### Rear wheel — pothole dent, 12 Sep 2026
 
@@ -27,7 +27,7 @@ Stock spec (from Trek / 99 Spokes listing; unchanged across the Gen 4 AL 4 run):
 
 ### Tyres
 
-Stock R1 Hard-Case Lite are wire-bead, 60 tpi: heavy, stiff, slow, and rated to only 50 psi. A folding 32 mm tyre (aramid bead instead of steel wire, and with it a suppler higher-tpi casing and better compound) is the biggest free speed gain available on this bike — larger than the wheel swap — and worth doing before EPIC49 regardless of the wheel situation. Any of the candidates works with butyl tubes, TPU tubes or tubeless, and on hooked or hookless rims.
+Stock R1 Hard-Case Lite are wire-bead, 60 tpi: heavy, stiff, slow. A folding 32 mm tyre (aramid bead instead of steel wire, and with it a suppler higher-tpi casing and better compound) is the biggest free speed gain available on this bike — larger than the wheel swap — and worth doing before EPIC49 regardless of the wheel situation. Any of the candidates works with butyl tubes, TPU tubes or tubeless, and on hooked or hookless rims.
 
 **Comparison at 32 mm** (Bicycle Rolling Resistance drum tests: single tyre, 44 psi, 29 km/h; R1 figures are estimates from comparable 60 tpi wire-bead belted tyres, no lab test exists):
 
@@ -38,7 +38,7 @@ Stock R1 Hard-Case Lite are wire-bead, 60 tpi: heavy, stiff, slow, and rated to 
 | Weight / tyre | 428 g | 310 g | 347 g | ~330 g |
 | Puncture score (BRR) | likely 40s–50s | 38 | 43 | — |
 | Wet grip (BRR) | likely low 60s | 72 | 81 | — |
-| Max pressure | 50 psi | 73 psi | 87 psi | — |
+| Max pressure | 70 psi (sidewall) | 73 psi | 87 psi | — |
 | BRR verdict | — | 5/5 Highly Recommended | 5/5 Highly Recommended | — |
 
 ~15 W per pair ≈ 1 km/h at the same effort, ≈ 5–6 min over an 80 km Z2 ride, ≈ 8–10 min over EPIC49. Non-RS P Zero Race TLR 32 also tests at 15.8 W — avoid; the RS is the one to buy. Vittoria Corsa N.EXT has no 32 mm test; dropped from the shortlist.
