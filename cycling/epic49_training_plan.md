@@ -1,6 +1,6 @@
 # Cycling Training Plan: September 2026 → EPIC49 and beyond
 
-**Prepared:** 2 September 2026 (revised same day: office commute moved to Thursday; sessions mirrored on the "Training" Google Calendar through 25 Oct)
+**Prepared:** 2 September 2026 (revised same day: office commute moved to Thursday; sessions mirrored on the "Training" Google Calendar through 25 Oct. Revised 14 September 2026: HR zones corrected from the first two threshold sessions and the first VO2 session; threshold venue changed to the Richmond Park Ballet Loop — see the [training log](epic49_training_log.md).)
 **Target event:** EPIC49, Kettering Leisure Village, Thu 29 Oct – Sun 1 Nov 2026
 **Goals (in priority order):**
 1. General health and fitness
@@ -37,20 +37,21 @@ Based on Strava, March–August 2026:
 
 ## 2. Zones and how to gauge effort
 
-You ride by heart rate, not power. Your current Strava HR zones:
+You ride by heart rate, not power. Zones revised 14 Sep 2026 from the first two threshold sessions (7 and 14 Sep) and the first VO2 session (9 Sep): Strava's default Z4/Z5 were 10–15 bpm too high for you. Z1–Z2 are unchanged because they've matched the long rides well.
 
 | Zone | HR (bpm) | Feel | Used for |
 |---|---|---|---|
 | Z1 | < 122 | Barely working | Recovery spins, utility rides |
-| Z2 | 123–151 | Conversational, could go all day | Long rides, most volume |
-| Z3 | 152–165 | Sentences, not paragraphs | Tempo (use sparingly) |
-| Z4 | 166–179 | A few words at a time | Threshold intervals |
-| Z5 | 180+ | Can't talk | VO2max intervals |
+| Z2 | 123–149 | Conversational, could go all day | Long rides, most volume |
+| Z3 | 150–157 | Sentences, not paragraphs | Tempo (use sparingly) |
+| Z4 | 158–167 | A few words at a time | Threshold intervals (target 155–165) |
+| Z5 | 168+ | Can't talk | VO2max intervals (172 is the highest seen) |
 
 Rules of thumb:
 - **HR lags by 1–3 minutes.** For anything shorter than ~5 minutes, go by feel, not the number.
 - **Z2 means Z2.** The discipline on long rides is *not* chasing segments through Brixton. If HR creeps over 150 on the flat, ease off.
-- Heat, caffeine, poor sleep and a LAN weekend all push HR up for the same effort. When in doubt, trust how it feels.
+- Heat, caffeine, poor sleep and a LAN weekend all push HR up for the same effort at low intensity. At threshold it goes the other way: **on a tired day HR reads ~5 bpm low at the same effort** (14 Sep: 152–156 after two short nights vs 158–161 fresh). When in doubt, trust how it feels.
+- Your limiter in hard efforts is legs, not breathing. Cadence (95–105 rpm in the work) and strength training are the fixes; don't force HR up by grinding a bigger gear.
 
 ---
 
@@ -76,26 +77,26 @@ Calendar times: Mon 06:00, Tue 19:00, Wed 06:00, Fri 19:00, Sat 05:30 pre-dawn s
 60–120 km depending on the week, HR 125–150. Eat something every 45–60 minutes from the first hour (you've noted turning back hungry before). Cafe stops are fine; this is the ride that makes the Kettering trip feel normal.
 
 **Threshold intervals (Monday)**
-- Warm up 15 min easy.
-- Weeks 1–3: **3 × 10 min** at HR 165–175, 5 min easy between.
+- Warm up 15 min easy, then two 30 s openers.
+- Weeks 1–3: **3 × 10 min** at HR 155–165, 5 min easy between.
 - Weeks 5–6: **2 × 15 min**, 5 min easy between.
 - Weeks 7–8: **2 × 20 min**, 5 min easy between.
 - Cool down 10 min.
 - Effort check: hard but controlled. You should be able to say a short sentence but wouldn't want to. If the last interval is slower than the first by more than ~10%, you started too hard.
-- Where: **Richmond Park** — this session needs 10–20 min of continuous road and London streets can't provide it. See "Where to do intensity in London" below.
+- Where: **Richmond Park, Ballet Loop** — the eastern half-lap using the road past White Lodge (~5 km, ~11 min per lap at threshold). Steady road, no freewheel gap, so efforts come out even; the full lap's Broomfield descent breaks the effort. Two junctions per lap — try to land them in the recoveries. Lap button at the start and end of every block. See "Where to do intensity in London" below.
 
 **VO2max intervals (every other Wednesday)**
 - Warm up 15 min with 2–3 short 30-second surges.
 - **5 × 3 min** as hard as you can *sustain for all five*, 3 min easy spinning between.
 - Cool down 10 min.
-- Ignore HR during the work. It won't catch up in time. Go by legs and breathing.
-- On the off week, do a 45–60 min tempo ride (Z3, HR 152–165) instead, or an easy Z2 hour if tired. Tempo can be done on ordinary roads — see below.
+- Ignore HR during the work. It won't catch up in time. Go by legs and breathing. For reference, blocks end around 168–172.
+- On the off week, do a 45–60 min tempo ride (Z3, HR 150–157) instead, or an easy Z2 hour if tired. Tempo can be done on ordinary roads — see below.
 
 **Office commute (Thursday)**
 Loaded, Z2/Z3 with the usual short bursts for lights and junctions. It's a moderate day in its own right, so nothing gets added on top. If the commute doesn't happen in a given week, replace it with a 45 min tempo ride. If it lands the day after a Wednesday tempo, take the commute gently.
 
 **Strength (2× per week, 25–30 min)**
-The routine you were doing in March is the right one. Restart at those loads and build.
+The routine you were doing in March is the right one. Restart at those loads and build. Your interval sessions are leg-limited, not cardio-limited, so this is a higher priority than a 25-minute session suggests.
 - Goblet squat 3 × 12
 - Romanian deadlift 3 × 12
 - Single-arm row 3 × 12 per side
@@ -115,9 +116,9 @@ London roads don't offer 10 uninterrupted minutes of tempo, let alone 20 at thre
 - Aim for a **total time in Z3** (e.g. 30 min) rather than a set number of blocks. Take it in whatever pieces the road gives: 4 min here, 6 there. Stop counting when you hit the target.
 - Use traffic lights as the interval structure: ride the stretch between two sets at tempo, spin easy through the junction, go again.
 - Skip any stretch under ~3 min; too short to settle into the effort.
-- With blocks this short, HR won't catch up. Go by feel: legs working, breathing deeper than conversational, but you could hold it for 20 min if you had to. Don't chase 152–165 on the screen or you'll overshoot into threshold.
+- With blocks this short, HR won't catch up. Go by feel: legs working, breathing deeper than conversational, but you could hold it for 20 min if you had to. Don't chase 150–157 on the screen or you'll overshoot into threshold.
 
-**Threshold: Richmond Park (or a trainer).** Threshold intervals need 10–20 min of continuous, controlled effort; chopping them up changes what they train. Richmond Park (one lap ≈ 11 km, ~20 min at your pace, no lights) is worth the ride out. Regent's Park outer circle (≈ 4.5 km laps) is a weaker alternative. Over winter, an indoor trainer replaces both.
+**Threshold: Richmond Park Ballet Loop (or a trainer).** Threshold intervals need 10–20 min of continuous, controlled effort; chopping them up changes what they train. The Ballet Loop (eastern half-lap via White Lodge, ~5 km, ~11 min at threshold, no lights) is worth the ride out. The full park lap works too but Broomfield Hill forces a freewheel gap. Vehicle gates close at dusk, so 06:00 and post-dusk sessions have no cars on the inner road; early-evening sessions do. Regent's Park outer circle (≈ 4.5 km laps, lit) is a weaker alternative. Over winter, an indoor trainer replaces both.
 
 ---
 
@@ -187,11 +188,11 @@ Then, from ~9 Nov:
 ## 7. Quick reference card
 
 - **Long ride:** Saturday, pre-dawn start, Z2 (HR 125–150), 60–120 km, eat every 45 min.
-- **Threshold:** Monday, HR 165–175, 3×10 → 2×15 → 2×20 min. Richmond Park, not city streets.
-- **Tempo:** total minutes in Z3 across whatever stretches the roads allow; lights are the interval structure.
+- **Threshold:** Monday, HR 155–165 by feel, 3×10 → 2×15 → 2×20 min. Richmond Park Ballet Loop, not city streets. Lap button every block.
+- **Tempo:** total minutes in Z3 (150–157) across whatever stretches the roads allow; lights are the interval structure.
 - **VO2:** every other Wednesday, 5×3 min all-out-sustainable, by feel.
 - **Commute:** Thursday, loaded, Z2/Z3 — it's the moderate day, nothing on top.
-- **Strength:** Tue and Fri, 25–30 min, the March routine plus split squats.
+- **Strength:** Tue and Fri, 25–30 min, the March routine plus split squats. Higher priority than it looks: legs are the limiter.
 - **Utility rides:** easy, always.
 - **Recovery week:** week 4 (21–27 Sep). Take it.
 - **Loaded rehearsal:** week 6 (5–11 Oct), 100+ km, full kit.

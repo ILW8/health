@@ -1,6 +1,6 @@
 # EPIC49 Block — Training Log
 
-**Prepared:** 7 September 2026 (updated 14 September 2026)
+**Prepared:** 7 September 2026 (updated 14 September 2026, evening)
 **Plan:** [epic49_training_plan.md](epic49_training_plan.md)
 
 Session-by-session notes for the 8-week block (7 Sep – 25 Oct 2026). One entry per key session; easy/utility rides aren't logged unless something notable happens.
@@ -119,16 +119,36 @@ Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 
 
 ## Week 3 (14–20 Sep)
 
-### Mon 14 Sep — Threshold 3 × 10 min (moved to evening)
+### Mon 14 Sep — Threshold 3 × 10 min, Richmond Park Ballet Loop (evening)
 
-Session shifted from 06:00 to an evening start (~20:00) after the late Sunday night. Going into it: two short nights, ~109 km on Saturday including a moderate-effort night ride, no ride Sunday.
+Strava activity 20175429888. **35.2 km, 1 h 28 moving (1 h 34 elapsed), 171 m gain, relative effort 49. Avg HR 140, max 166.** Started 18:34; intervals in daylight, ride home at dusk. First session on the **Ballet Loop** (eastern half-lap via the White Lodge road, ~5 km, ~11 min per lap at threshold pace) instead of the full park lap. Lap button used — first session with proper splits.
 
-Brief agreed beforehand:
-- Same 3 × 10 min, same effort as 7 Sep, by feel. Don't chase HR — expect it to sit the same or slightly lower for the same leg feel given the sleep debt; RPE is the number that matters tonight.
-- Lap button at the start and end of each block.
-- Try 95–100 rpm in the work blocks.
-- If block 1 feels a clear notch harder than last week at the same HR, cut to 2 × 10 rather than grind out a bad third. If the legs are heavy on the ride out, turn it into an easy Z2 hour and do the threshold session on Wednesday in place of the tempo ride.
-- After sunset in Richmond Park: full lights, slower on Broomfield, deer are more active at dusk than at 06:00. Regent's Park outer circle (lit) or a Tuesday 06:00 slot are the alternatives if the park feels wrong in the dark.
-- Fuelling: light carb-forward meal ~1.5–2 h before; one bottle with ~20–30 g carbs during; the rest of dinner (protein + carbs) within an hour of getting back. No caffeine.
+Context: moved from 06:00 to the evening after the late weekend (two short nights, ~109 km on Saturday). Pre-ride: white bread and sweets ~1 h before, sweets in the pocket. Vehicle gates still open, so cars on the inner road throughout.
 
-_Results and assessment to be added after the session._
+| Block | Duration | Distance | Speed | Avg HR | Max HR | Notes |
+|---|---|---|---|---|---|---|
+| Warm-up | 22 min (19 moving) | 7.9 km | | 134 | 166 | Ride out, openers |
+| 1 | 9:59 | 4.65 km | 27.9 km/h | 156 | 165 | Clean |
+| Recovery | 5:05 | 1.55 km | | 144 | 158 | Cars on the road, had to keep pace; also landed on the Ballet School hill. Not a real recovery. |
+| 2 | 10:13 | 4.85 km | 28.5 km/h | 152 | 160 | Slowed for cars mid-block |
+| Recovery | 4:41 | 1.93 km | | 136 | | Proper recovery |
+| 3 | 10:12 | 4.61 km | 27.1 km/h | 153 | 157 | Clean |
+| Cool-down | 32 min (27 moving) | 9.6 km | | 129 | | Bathroom stop, ride home |
+
+**Athlete notes**
+- Recovery 1 had to be ridden faster than intended because of cars. Block 2 interrupted by cars.
+- Quick bathroom break after block 3 before heading home.
+
+**Assessment**
+- All three blocks completed at the full 10 min with flat pacing: 27.9 / 28.5 / 27.1 km/h on the same loop, no fade beyond the traffic slowdown. Executed well under poor conditions (sleep debt, traffic).
+- HR sat 5–8 bpm lower than on 7 Sep (156 / 152 / 153 vs 160 / 161 / 158) and the max stepped down through the session (165 → 160 → 157). Three things all push the same way and can't be separated from the data: sleep debt suppresses HR at a given effort; the flatter loop removes the climbs that lifted HR last week; and the first recovery wasn't one (avg 144), which typically blunts the next block. Athlete RPE for blocks 2–3 vs last week is the missing piece — if they felt the same, this is the fatigue signature; if they felt easier, the effort was a notch light.
+- **Zone conclusion.** Two threshold sessions in: fresh day 158–161, tired day 152–156, hard-10-min ceiling 165–170, VO2 max 172. The plan's Z4 (166–179) and Z5 (180+) are wrong for this rider. Revised in the plan: **Z3 150–157 (tempo), Z4 158–167 (threshold, 155–165 target), Z5 168+ (VO2).** Z1–Z2 unchanged; they've worked on the long rides. Rule added: on a tired day expect HR to read ~5 bpm low at the same effort, and go by feel.
+- **Ballet Loop verdict: works.** Each 10-min block is just under a lap, the road is steady, no freewheel gap. Adopt it for the 2 × 15 and 2 × 20 sessions. Two junctions per lap; try to land them in recoveries. Cars on the inner road until dusk — 06:00 sessions won't have this, evening ones before ~19:00 will.
+- Fuelling: bread and sweets an hour out was enough for 30 min of work; nothing needed during. Noodles, egg and the protein bar after.
+
+**Rest of week 3**
+- Tue: strength (the priority session for this rider — do it).
+- Wed: tempo, 50 min total in Z3 (HR 150–157 by feel) in whatever pieces the roads give. If the legs are flat from the weekend, an easy Z2 hour instead.
+- Thu: commute if the access card is sorted; otherwise 45 min tempo.
+- Fri: strength, light.
+- Sat: 80 km Z2 — the plotted 80 km Ripley variant (Chertsey + Richmond Park lap) is the obvious route.
