@@ -101,12 +101,16 @@ Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 
 | Relative effort | 29 | 12 |
 | Notes | Wimbledon → Putney → Embankment → Waterloo Bridge → Chinatown ("late night noodles"). Several bridge segments at 156–162 avg HR; 5-mile best effort 18:40. | Pall Mall → Chelsea → Battersea → Wandsworth → Garratt Lane → home, in the rain. |
 
+**Athlete notes**
+- Outbound leg was harder than intended. Car traffic at 1 AM was busier than expected and the pace was set to blend with it for safety. Return leg was at an easier pace.
+
 **Assessment**
 - Volume for the day ended up ~109 km across the two blocks, which is roughly what the original plan (70 + 2 × 30) intended. Fine on paper.
 - The outbound leg was not a Z1 utility ride: avg 141 with repeated pushes to 160+ on the bridges. That's a second moderate effort on the day of the block's longest ride. The return leg was properly easy.
+- The pace was the right call for safety, and the reason is structural: a late-night ride through central London will land at Z2–Z3 whatever the intention, because you ride at traffic pace. **Note for planning: count a late-night central London ride as a moderate ride when tallying the day, not a free utility ride.** Keeping it easy only works on the quieter return routes (Chelsea → Battersea → Garratt Lane worked; the Embankment/bridges didn't).
 - Sleep: home ~04:30 but still got ~6 h Saturday night and ~8 h Sunday night (later than usual, not short). So going into Monday the load was the bigger factor, not the sleep.
 - No sign of the dented rear rim causing trouble over another 39 km on wet roads — supports the "rideable" verdict. Keep checking for hairline cracks.
-- No change to the plan. Note for next time: night rides are fine as social/utility, but after a long ride keep them at the return-leg effort (HR ~125), not the outbound one.
+- No change to the plan.
 
 ### Week 2 summary
 
@@ -157,6 +161,6 @@ Weekend plan changed: visiting a friend, with a **~100 km tour on Sun 20 or Mon 
 - **Wed 16:** tempo, 50 min total in Z3 (HR 150–157 by feel). If the legs are still flat, an easy Z2 hour instead — tempo is the lowest-priority session and this is the week to drop it.
 - **Thu 17:** commute if the access card is sorted; otherwise 45 min tempo (or easy, same rule).
 - **Fri 18:** light strength, or nothing if travelling.
-- **Commute-like rides around the tour:** Z1, properly. The night-ride pattern from last weekend (HR 141 with bridge sprints) is what to avoid — the tour is the session, the rides around it aren't.
+- **Commute-like rides around the tour:** as easy as the roads allow. If they run through busy traffic, count them as moderate (see the 12/13 Sep note) and go a notch easier on the tour itself.
 - **Tour (Sun 20 or Mon 21):** ~100 km at Z2 (HR 125–150), eat every 45 min from hour one, cafe stops fine. Loaded or not, note it.
 - **Recovery week (21–27 Sep):** if the tour is Sunday, do the 2 × 8 threshold on Wed 23 instead of Mon 21. If the tour is Monday, skip the 2 × 8 altogether — a 100 km start is enough hard work for a recovery week. Everything else in the week easy; strength Tue/Fri as usual.
