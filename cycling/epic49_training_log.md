@@ -103,11 +103,12 @@ Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 
 
 **Athlete notes**
 - Outbound leg was harder than intended. Car traffic at 1 AM was busier than expected and the pace was set to blend with it for safety. Return leg was at an easier pace.
+- It's the hour, not the route: around 4 AM is the deadest London gets; midnight–1 AM is still busy.
 
 **Assessment**
 - Volume for the day ended up ~109 km across the two blocks, which is roughly what the original plan (70 + 2 × 30) intended. Fine on paper.
 - The outbound leg was not a Z1 utility ride: avg 141 with repeated pushes to 160+ on the bridges. That's a second moderate effort on the day of the block's longest ride. The return leg was properly easy.
-- The pace was the right call for safety, and the reason is structural: a late-night ride through central London will land at Z2–Z3 whatever the intention, because you ride at traffic pace. **Note for planning: count a late-night central London ride as a moderate ride when tallying the day, not a free utility ride.** Keeping it easy only works on the quieter return routes (Chelsea → Battersea → Garratt Lane worked; the Embankment/bridges didn't).
+- The pace was the right call for safety, and the reason is structural: riding through London while the roads are still busy means riding at traffic pace, which lands at Z2–Z3 whatever the intention. **Note for planning: count a ride through town before ~2 AM (or in the day) as a moderate ride when tallying the day, not a free utility ride. Roughly 3–5 AM is the window where an easy pace is actually possible.**
 - Sleep: home ~04:30 but still got ~6 h Saturday night and ~8 h Sunday night (later than usual, not short). So going into Monday the load was the bigger factor, not the sleep.
 - No sign of the dented rear rim causing trouble over another 39 km on wet roads — supports the "rideable" verdict. Keep checking for hairline cracks.
 - No change to the plan.
