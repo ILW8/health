@@ -65,7 +65,7 @@ Strava activity 20098366819. 27.1 km, 1 h 13 moving, 134 m gain, relative effort
 
 ### Sat 12 Sep — Long ride, Ripley Lanes Loop + Chertsey extension
 
-Strava activity 20139358805. **69.8 km, 2 h 50 moving (3 h 19 elapsed), 317 m gain, relative effort 91. Avg HR 141, max 160. Longest ride to date.** Started 05:39. Route: [Chertsey-only variant](route_ripley_lanes_loop.md) (67.6 km plotted; extra ~2 km from the Ripley cafe detour and stops).
+Strava activity 20139358805. **69.8 km, 2 h 50 moving (3 h 19 elapsed), 317 m gain, relative effort 91. Avg HR 141, max 160. Longest ride of the block so far** (not of the year — the EPIC48 legs in July were 149 and 174 km). Started 05:39. Route: [Chertsey-only variant](route_ripley_lanes_loop.md) (67.6 km plotted; extra ~2 km from the Ripley cafe detour and stops).
 
 Plan changes on the day: a 2 × 30 km afternoon trip (picking up a friend, London roads) was pencilled in, so the Richmond Park lap was dropped from the morning to keep the day's total near 100 km and the morning flat. The afternoon trip then didn't happen; see the overnight entry below for what replaced it.
 
@@ -77,7 +77,7 @@ Plan changes on the day: a 2 × 30 km afternoon trip (picking up a friend, Londo
 - Effort was where it should have been: avg 141 is squarely low-Z2 as agreed the night before, and the Z3 moments were short (max 160). Outbound Portsmouth Road segments averaged 139–149; return leg (Walton → Kingston) 145–150 with the usual tailwind and drift. Same pattern as last week, nothing to change.
 - Speed was down on last week (24.6 vs 24 km/h moving, but 29 min stopped vs 15) — more lights, the cafe stop, and presumably the pothole check. Fine for a Z2 day.
 - Week 2 long-ride target (70–80 km) met at the bottom of the range, by design. The planned afternoon ride was meant to make up volume; the overnight rides did instead.
-- New territory: this is the longest ride on record. Note how the legs feel Sunday and going into Monday's threshold session.
+- Note how the legs feel Sunday and going into Monday's threshold session.
 
 **Rear wheel — pothole damage, assessed same day**
 - Dent is in the rim wall; surface smooth, no step or flare at the bead hook.
@@ -103,7 +103,7 @@ Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 
 
 **Assessment**
 - Volume for the day ended up ~109 km across the two blocks, which is roughly what the original plan (70 + 2 × 30) intended. Fine on paper.
-- The outbound leg was not a Z1 utility ride: avg 141 with repeated pushes to 160+ on the bridges. That's a second moderate effort on the day of the longest ride to date. The return leg was properly easy.
+- The outbound leg was not a Z1 utility ride: avg 141 with repeated pushes to 160+ on the bridges. That's a second moderate effort on the day of the block's longest ride. The return leg was properly easy.
 - Sleep: home ~04:30 but still got ~6 h Saturday night and ~8 h Sunday night (later than usual, not short). So going into Monday the load was the bigger factor, not the sleep.
 - No sign of the dented rear rim causing trouble over another 39 km on wet roads — supports the "rideable" verdict. Keep checking for hairline cracks.
 - No change to the plan. Note for next time: night rides are fine as social/utility, but after a long ride keep them at the return-leg effort (HR ~125), not the outbound one.
@@ -123,7 +123,7 @@ Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 
 
 Strava activity 20175429888. **35.2 km, 1 h 28 moving (1 h 34 elapsed), 171 m gain, relative effort 49. Avg HR 140, max 166.** Started 18:34; intervals in daylight, ride home at dusk. First session on the **Ballet Loop** (eastern half-lap via the White Lodge road, ~5 km, ~11 min per lap at threshold pace) instead of the full park lap. Lap button used — first session with proper splits.
 
-Context: moved from 06:00 to the evening after a late Sunday night (6 h and 8 h sleep on Sat/Sun — later than usual, not short). ~109 km on Saturday including the longest ride to date. Strong westerly wind. Pre-ride: white bread and sweets ~1 h before, sweets in the pocket. Vehicle gates still open, so cars on the inner road throughout.
+Context: moved from 06:00 to the evening after a late Sunday night (6 h and 8 h sleep on Sat/Sun — later than usual, not short). ~109 km on Saturday in two sittings; not unusual distance for this rider (EPIC48 legs were 149/174 km) but the biggest day since July. Strong westerly wind. Pre-ride: white bread and sweets ~1 h before, sweets in the pocket. Vehicle gates still open, so cars on the inner road throughout.
 
 | Block | Duration | Distance | Speed | Avg HR | Max HR | Notes |
 |---|---|---|---|---|---|---|
@@ -143,15 +143,20 @@ Context: moved from 06:00 to the evening after a late Sunday night (6 h and 8 h 
 
 **Assessment**
 - All three blocks completed at the full 10 min with flat pacing: 27.9 / 28.5 / 27.1 km/h on the same loop, no fade beyond the traffic slowdown. Executed well under poor conditions (residual load, wind, traffic).
-- HR sat 5–8 bpm lower than on 7 Sep (156 / 152 / 153 vs 160 / 161 / 158), the max stepped down through the session (165 → 160 → 157), and the athlete reports the same-or-harder RPE. **Lower HR at the same or higher effort is the fatigue signature**, and the source is Saturday's ~109 km (longest ride ever plus a moderate-effort night ride) rather than sleep, which was adequate. Two smaller contributors: the flatter loop removed the climbs that lifted HR last week, and the first recovery wasn't one (avg 144). The headwind made the effort lumpy but doesn't change the reading.
-- "10 minutes felt long" is worth noting but not worrying: one data point, 48 h after the biggest day on record, with the work still completed at even pace. If it recurs on Wednesday or the legs are still flat on Saturday, treat the recovery week (21–27 Sep) as non-negotiable and start it a day early.
+- HR sat 5–8 bpm lower than on 7 Sep (156 / 152 / 153 vs 160 / 161 / 158), the max stepped down through the session (165 → 160 → 157), and the athlete reports the same-or-harder RPE. **Lower HR at the same or higher effort is the fatigue signature.** The likely source is the accumulated week — first two interval sessions ever, plus the biggest day since July 48 h earlier — rather than sleep, which was adequate. Two smaller contributors: the flatter loop removed the climbs that lifted HR last week, and the first recovery wasn't one (avg 144). The headwind made the effort lumpy but doesn't change the reading.
+- "10 minutes felt long" is worth noting but not worrying: one data point, with the work still completed at even pace. If it recurs on Wednesday or the legs are still flat at the weekend, treat the recovery week (21–27 Sep) as non-negotiable.
 - **Zone conclusion.** Two threshold sessions in: fresh day 158–161, fatigued day 152–156, hard-10-min ceiling 165–170, VO2 max 172. The plan's Z4 (166–179) and Z5 (180+) are wrong for this rider. Revised in the plan: **Z3 150–157 (tempo), Z4 158–167 (threshold, 155–165 target), Z5 168+ (VO2).** Z1–Z2 unchanged; they've worked on the long rides. Rule added: on a fatigued day expect HR to read ~5 bpm low at the same effort, and go by feel.
 - **Ballet Loop verdict: works.** Each 10-min block is just under a lap, the road is steady, no freewheel gap. Adopt it for the 2 × 15 and 2 × 20 sessions. Two junctions per lap; try to land them in recoveries. Cars on the inner road until dusk — 06:00 sessions won't have this, evening ones before ~19:00 will. On a windy day the loop has a headwind leg and a tailwind leg; hold effort, not speed, and expect the block-to-block speeds to differ depending on where each one starts.
 - Fuelling: bread and sweets an hour out was enough for 30 min of work; nothing needed during. Noodles, egg and the protein bar after.
 
-**Rest of week 3**
-- Tue: strength (the priority session for this rider — do it).
-- Wed: tempo, 50 min total in Z3 (HR 150–157 by feel) in whatever pieces the roads give. **If the legs are still flat, an easy Z2 hour instead — no penalty for that this week.**
-- Thu: commute if the access card is sorted; otherwise 45 min tempo.
-- Fri: strength, light.
-- Sat: 80 km Z2 — the plotted 80 km Ripley variant (Chertsey + Richmond Park lap) is the obvious route. If Wednesday was an easy day and Saturday still feels heavy, drop the park lap (68 km).
+### Rest of week 3 and into the recovery week — revised 14 Sep
+
+Weekend plan changed: visiting a friend, with a **~100 km tour on Sun 20 or Mon 21** and shorter commute-like rides before and after. The tour replaces the Saturday 80 km and is effectively week 5's 100 km pulled forward; the recovery week absorbs it. This week is a tempo week (VO2 alternates; next VO2 is Wed 30 Sep), so there's no hard midweek session to protect.
+
+- **Tue 15:** strength.
+- **Wed 16:** tempo, 50 min total in Z3 (HR 150–157 by feel). If the legs are still flat, an easy Z2 hour instead — tempo is the lowest-priority session and this is the week to drop it.
+- **Thu 17:** commute if the access card is sorted; otherwise 45 min tempo (or easy, same rule).
+- **Fri 18:** light strength, or nothing if travelling.
+- **Commute-like rides around the tour:** Z1, properly. The night-ride pattern from last weekend (HR 141 with bridge sprints) is what to avoid — the tour is the session, the rides around it aren't.
+- **Tour (Sun 20 or Mon 21):** ~100 km at Z2 (HR 125–150), eat every 45 min from hour one, cafe stops fine. Loaded or not, note it.
+- **Recovery week (21–27 Sep):** if the tour is Sunday, do the 2 × 8 threshold on Wed 23 instead of Mon 21. If the tour is Monday, skip the 2 × 8 altogether — a 100 km start is enough hard work for a recovery week. Everything else in the week easy; strength Tue/Fri as usual.
