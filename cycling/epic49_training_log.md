@@ -104,7 +104,7 @@ Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 
 **Assessment**
 - Volume for the day ended up ~109 km across the two blocks, which is roughly what the original plan (70 + 2 × 30) intended. Fine on paper.
 - The outbound leg was not a Z1 utility ride: avg 141 with repeated pushes to 160+ on the bridges. That's a second moderate effort on the day of the longest ride to date. The return leg was properly easy.
-- The real cost was sleep, not the kilometres: home at ~04:30, then a later-than-usual night on Sunday as well. Two compromised nights going into the Monday threshold session.
+- Sleep: home ~04:30 but still got ~6 h Saturday night and ~8 h Sunday night (later than usual, not short). So going into Monday the load was the bigger factor, not the sleep.
 - No sign of the dented rear rim causing trouble over another 39 km on wet roads — supports the "rideable" verdict. Keep checking for hairline cracks.
 - No change to the plan. Note for next time: night rides are fine as social/utility, but after a long ride keep them at the return-leg effort (HR ~125), not the outbound one.
 
@@ -123,7 +123,7 @@ Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 
 
 Strava activity 20175429888. **35.2 km, 1 h 28 moving (1 h 34 elapsed), 171 m gain, relative effort 49. Avg HR 140, max 166.** Started 18:34; intervals in daylight, ride home at dusk. First session on the **Ballet Loop** (eastern half-lap via the White Lodge road, ~5 km, ~11 min per lap at threshold pace) instead of the full park lap. Lap button used — first session with proper splits.
 
-Context: moved from 06:00 to the evening after the late weekend (two short nights, ~109 km on Saturday). Pre-ride: white bread and sweets ~1 h before, sweets in the pocket. Vehicle gates still open, so cars on the inner road throughout.
+Context: moved from 06:00 to the evening after a late Sunday night (6 h and 8 h sleep on Sat/Sun — later than usual, not short). ~109 km on Saturday including the longest ride to date. Strong westerly wind. Pre-ride: white bread and sweets ~1 h before, sweets in the pocket. Vehicle gates still open, so cars on the inner road throughout.
 
 | Block | Duration | Distance | Speed | Avg HR | Max HR | Notes |
 |---|---|---|---|---|---|---|
@@ -136,19 +136,22 @@ Context: moved from 06:00 to the evening after the late weekend (two short night
 | Cool-down | 32 min (27 moving) | 9.6 km | | 129 | | Bathroom stop, ride home |
 
 **Athlete notes**
+- Blocks 2 and 3 felt the same as last week, if not harder. 10 minutes felt long; was counting down.
+- Strong westerly: pacing into the headwind on the westbound stretch was difficult.
 - Recovery 1 had to be ridden faster than intended because of cars. Block 2 interrupted by cars.
 - Quick bathroom break after block 3 before heading home.
 
 **Assessment**
-- All three blocks completed at the full 10 min with flat pacing: 27.9 / 28.5 / 27.1 km/h on the same loop, no fade beyond the traffic slowdown. Executed well under poor conditions (sleep debt, traffic).
-- HR sat 5–8 bpm lower than on 7 Sep (156 / 152 / 153 vs 160 / 161 / 158) and the max stepped down through the session (165 → 160 → 157). Three things all push the same way and can't be separated from the data: sleep debt suppresses HR at a given effort; the flatter loop removes the climbs that lifted HR last week; and the first recovery wasn't one (avg 144), which typically blunts the next block. Athlete RPE for blocks 2–3 vs last week is the missing piece — if they felt the same, this is the fatigue signature; if they felt easier, the effort was a notch light.
-- **Zone conclusion.** Two threshold sessions in: fresh day 158–161, tired day 152–156, hard-10-min ceiling 165–170, VO2 max 172. The plan's Z4 (166–179) and Z5 (180+) are wrong for this rider. Revised in the plan: **Z3 150–157 (tempo), Z4 158–167 (threshold, 155–165 target), Z5 168+ (VO2).** Z1–Z2 unchanged; they've worked on the long rides. Rule added: on a tired day expect HR to read ~5 bpm low at the same effort, and go by feel.
-- **Ballet Loop verdict: works.** Each 10-min block is just under a lap, the road is steady, no freewheel gap. Adopt it for the 2 × 15 and 2 × 20 sessions. Two junctions per lap; try to land them in recoveries. Cars on the inner road until dusk — 06:00 sessions won't have this, evening ones before ~19:00 will.
+- All three blocks completed at the full 10 min with flat pacing: 27.9 / 28.5 / 27.1 km/h on the same loop, no fade beyond the traffic slowdown. Executed well under poor conditions (residual load, wind, traffic).
+- HR sat 5–8 bpm lower than on 7 Sep (156 / 152 / 153 vs 160 / 161 / 158), the max stepped down through the session (165 → 160 → 157), and the athlete reports the same-or-harder RPE. **Lower HR at the same or higher effort is the fatigue signature**, and the source is Saturday's ~109 km (longest ride ever plus a moderate-effort night ride) rather than sleep, which was adequate. Two smaller contributors: the flatter loop removed the climbs that lifted HR last week, and the first recovery wasn't one (avg 144). The headwind made the effort lumpy but doesn't change the reading.
+- "10 minutes felt long" is worth noting but not worrying: one data point, 48 h after the biggest day on record, with the work still completed at even pace. If it recurs on Wednesday or the legs are still flat on Saturday, treat the recovery week (21–27 Sep) as non-negotiable and start it a day early.
+- **Zone conclusion.** Two threshold sessions in: fresh day 158–161, fatigued day 152–156, hard-10-min ceiling 165–170, VO2 max 172. The plan's Z4 (166–179) and Z5 (180+) are wrong for this rider. Revised in the plan: **Z3 150–157 (tempo), Z4 158–167 (threshold, 155–165 target), Z5 168+ (VO2).** Z1–Z2 unchanged; they've worked on the long rides. Rule added: on a fatigued day expect HR to read ~5 bpm low at the same effort, and go by feel.
+- **Ballet Loop verdict: works.** Each 10-min block is just under a lap, the road is steady, no freewheel gap. Adopt it for the 2 × 15 and 2 × 20 sessions. Two junctions per lap; try to land them in recoveries. Cars on the inner road until dusk — 06:00 sessions won't have this, evening ones before ~19:00 will. On a windy day the loop has a headwind leg and a tailwind leg; hold effort, not speed, and expect the block-to-block speeds to differ depending on where each one starts.
 - Fuelling: bread and sweets an hour out was enough for 30 min of work; nothing needed during. Noodles, egg and the protein bar after.
 
 **Rest of week 3**
 - Tue: strength (the priority session for this rider — do it).
-- Wed: tempo, 50 min total in Z3 (HR 150–157 by feel) in whatever pieces the roads give. If the legs are flat from the weekend, an easy Z2 hour instead.
+- Wed: tempo, 50 min total in Z3 (HR 150–157 by feel) in whatever pieces the roads give. **If the legs are still flat, an easy Z2 hour instead — no penalty for that this week.**
 - Thu: commute if the access card is sorted; otherwise 45 min tempo.
 - Fri: strength, light.
-- Sat: 80 km Z2 — the plotted 80 km Ripley variant (Chertsey + Richmond Park lap) is the obvious route.
+- Sat: 80 km Z2 — the plotted 80 km Ripley variant (Chertsey + Richmond Park lap) is the obvious route. If Wednesday was an easy day and Saturday still feels heavy, drop the park lap (68 km).
