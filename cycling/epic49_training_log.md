@@ -1,6 +1,6 @@
 # EPIC49 Block — Training Log
 
-**Prepared:** 7 September 2026 (updated 12 September 2026)
+**Prepared:** 7 September 2026 (updated 14 September 2026)
 **Plan:** [epic49_training_plan.md](epic49_training_plan.md)
 
 Session-by-session notes for the 8-week block (7 Sep – 25 Oct 2026). One entry per key session; easy/utility rides aren't logged unless something notable happens.
@@ -67,7 +67,7 @@ Strava activity 20098366819. 27.1 km, 1 h 13 moving, 134 m gain, relative effort
 
 Strava activity 20139358805. **69.8 km, 2 h 50 moving (3 h 19 elapsed), 317 m gain, relative effort 91. Avg HR 141, max 160. Longest ride to date.** Started 05:39. Route: [Chertsey-only variant](route_ripley_lanes_loop.md) (67.6 km plotted; extra ~2 km from the Ripley cafe detour and stops).
 
-Plan changes on the day: a ~30 km afternoon trip (picking up a friend, London roads) was added, so the Richmond Park lap was dropped from the morning to keep the day's total near 100 km and the morning flat.
+Plan changes on the day: a 2 × 30 km afternoon trip (picking up a friend, London roads) was pencilled in, so the Richmond Park lap was dropped from the morning to keep the day's total near 100 km and the morning flat. The afternoon trip then didn't happen; see the overnight entry below for what replaced it.
 
 **Athlete notes**
 - Had to go into Z3 occasionally to stay safe in traffic.
@@ -76,7 +76,7 @@ Plan changes on the day: a ~30 km afternoon trip (picking up a friend, London ro
 **Assessment**
 - Effort was where it should have been: avg 141 is squarely low-Z2 as agreed the night before, and the Z3 moments were short (max 160). Outbound Portsmouth Road segments averaged 139–149; return leg (Walton → Kingston) 145–150 with the usual tailwind and drift. Same pattern as last week, nothing to change.
 - Speed was down on last week (24.6 vs 24 km/h moving, but 29 min stopped vs 15) — more lights, the cafe stop, and presumably the pothole check. Fine for a Z2 day.
-- Week 2 long-ride target (70–80 km) met at the bottom of the range, by design, with the afternoon ride making up volume.
+- Week 2 long-ride target (70–80 km) met at the bottom of the range, by design. The planned afternoon ride was meant to make up volume; the overnight rides did instead.
 - New territory: this is the longest ride on record. Note how the legs feel Sunday and going into Monday's threshold session.
 
 **Rear wheel — pothole damage, assessed same day**
@@ -85,3 +85,50 @@ Plan changes on the day: a ~30 km afternoon trip (picking up a friend, London ro
 - No lateral wobble. Slight radial hop, only perceptible on smooth tarmac; took 15–20 min of riding to notice.
 - ~30 km ridden on it after the impact without issue.
 - **Verdict: rideable.** The hop is the dent itself and won't true out with spoke tension; rim replacement only if it becomes annoying. Re-check the dent for hairline cracks after the next few rides. No change to the plan.
+
+### Sat 12 → Sun 13 Sep — Overnight rides to central London (replaced the 2 × 30 km afternoon trip)
+
+Two rides, both logged as "Night Ride". Combined: **39.3 km, 1 h 55 moving (2 h 30 elapsed), 00:06–04:28.**
+
+| | Out (activity 20151059690) | Back (activity 20152070068) |
+|---|---|---|
+| Start | 00:06 | 03:11 |
+| Distance | 20.9 km | 18.4 km |
+| Moving / elapsed | 55 min / 1 h 13 | 60 min / 1 h 16 |
+| Gain | 98 m | 47 m |
+| Avg speed (moving) | 22.9 km/h | 18.4 km/h |
+| Avg / max HR | 141 / 166 | 125 / 149 |
+| Relative effort | 29 | 12 |
+| Notes | Wimbledon → Putney → Embankment → Waterloo Bridge → Chinatown ("late night noodles"). Several bridge segments at 156–162 avg HR; 5-mile best effort 18:40. | Pall Mall → Chelsea → Battersea → Wandsworth → Garratt Lane → home, in the rain. |
+
+**Assessment**
+- Volume for the day ended up ~109 km across the two blocks, which is roughly what the original plan (70 + 2 × 30) intended. Fine on paper.
+- The outbound leg was not a Z1 utility ride: avg 141 with repeated pushes to 160+ on the bridges. That's a second moderate effort on the day of the longest ride to date. The return leg was properly easy.
+- The real cost was sleep, not the kilometres: home at ~04:30, then a later-than-usual night on Sunday as well. Two compromised nights going into the Monday threshold session.
+- No sign of the dented rear rim causing trouble over another 39 km on wet roads — supports the "rideable" verdict. Keep checking for hairline cracks.
+- No change to the plan. Note for next time: night rides are fine as social/utility, but after a long ride keep them at the return-leg effort (HR ~125), not the outbound one.
+
+### Week 2 summary
+
+- Rides: Mon 32.8 km (threshold), Wed 27.1 km (VO2), Sat 69.8 km (long), Sat/Sun night 39.3 km. **~169 km, relative effort ~232.** One strength session (Thu). No Thursday commute.
+- All three key sessions done and well paced. Both interval sessions leg-limited rather than cardio-limited; cadence and strength are the levers.
+- Working threshold HR range provisionally 158–165. Zone table in the plan to be revised after the 14 Sep session.
+- Loose ends: sort the office access card so the Thursday commute happens in week 3; second strength session of the week didn't happen (only Thu).
+
+---
+
+## Week 3 (14–20 Sep)
+
+### Mon 14 Sep — Threshold 3 × 10 min (moved to evening)
+
+Session shifted from 06:00 to an evening start (~20:00) after the late Sunday night. Going into it: two short nights, ~109 km on Saturday including a moderate-effort night ride, no ride Sunday.
+
+Brief agreed beforehand:
+- Same 3 × 10 min, same effort as 7 Sep, by feel. Don't chase HR — expect it to sit the same or slightly lower for the same leg feel given the sleep debt; RPE is the number that matters tonight.
+- Lap button at the start and end of each block.
+- Try 95–100 rpm in the work blocks.
+- If block 1 feels a clear notch harder than last week at the same HR, cut to 2 × 10 rather than grind out a bad third. If the legs are heavy on the ride out, turn it into an easy Z2 hour and do the threshold session on Wednesday in place of the tempo ride.
+- After sunset in Richmond Park: full lights, slower on Broomfield, deer are more active at dusk than at 06:00. Regent's Park outer circle (lit) or a Tuesday 06:00 slot are the alternatives if the park feels wrong in the dark.
+- Fuelling: light carb-forward meal ~1.5–2 h before; one bottle with ~20–30 g carbs during; the rest of dinner (protein + carbs) within an hour of getting back. No caffeine.
+
+_Results and assessment to be added after the session._
